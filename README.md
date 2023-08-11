@@ -11,7 +11,7 @@ In my free time, I enjoy tinkering with new programming languages and frameworks
 Overall, I'm a dedicated and hardworking developer who is always striving to improve my craft and make a positive impact in the world through technology.
 
 <p align="left">
-<a href="https://github.com/gilangadhan">
+<a href="https://github.com/rizfirsy-gh">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
